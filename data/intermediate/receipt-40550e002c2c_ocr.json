@@ -1,0 +1,17 @@
+{
+  "receipt_id": "receipt-40550e002c2c",
+  "store_name": "유니클로",
+  "store_address": "서울 강남구 영통대로 513 코엑스몰 D1",
+  "date": "2025-10-03 16:47",
+  "items": [
+    {
+      "id": 1,
+      "name": "일자면바지요",
+      "unit_price": 60000,
+      "count": 1,
+      "price": 60000
+    }
+  ],
+  "total_price": 60000,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-40550e002c2c.png"
+}

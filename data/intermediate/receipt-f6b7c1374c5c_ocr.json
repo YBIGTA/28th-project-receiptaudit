@@ -1,0 +1,17 @@
+{
+  "receipt_id": "receipt-f6b7c1374c5c",
+  "store_name": "048896 （ ",
+  "store_address": "",
+  "date": "2025-10-27 17:11",
+  "items": [
+    {
+      "id": 1,
+      "name": "[PAYCO",
+      "unit_price": 45000,
+      "count": 1,
+      "price": 45000
+    }
+  ],
+  "total_price": 45000,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-f6b7c1374c5c.jpg"
+}

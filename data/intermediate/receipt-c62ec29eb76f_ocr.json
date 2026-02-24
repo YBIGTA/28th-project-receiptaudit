@@ -1,0 +1,52 @@
+{
+  "receipt_id": "receipt-c62ec29eb76f",
+  "store_name": "호호맥부 부천역점",
+  "store_address": "",
+  "date": "",
+  "items": [
+    {
+      "id": 1,
+      "name": "알맥500ml",
+      "unit_price": 4700,
+      "count": 7,
+      "price": 32900
+    },
+    {
+      "id": 2,
+      "name": "룸없는우유",
+      "unit_price": 6900,
+      "count": 1,
+      "price": 6900
+    },
+    {
+      "id": 3,
+      "name": "가위",
+      "unit_price": 0,
+      "count": 1,
+      "price": 0
+    },
+    {
+      "id": 4,
+      "name": "알맥300ml",
+      "unit_price": 3500,
+      "count": 1,
+      "price": 3500
+    },
+    {
+      "id": 5,
+      "name": "가위",
+      "unit_price": 6300,
+      "count": 1,
+      "price": 6300
+    },
+    {
+      "id": 6,
+      "name": "CHO",
+      "unit_price": 6930,
+      "count": 1,
+      "price": 6930
+    }
+  ],
+  "total_price": 56530,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-c62ec29eb76f.jpg"
+}

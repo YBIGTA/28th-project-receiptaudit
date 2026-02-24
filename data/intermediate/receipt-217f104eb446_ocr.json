@@ -1,0 +1,24 @@
+{
+  "receipt_id": "receipt-217f104eb446",
+  "store_name": "CU Again",
+  "store_address": "서울특별시 서대문구 연세로 50",
+  "date": "2025-11-13 00:00",
+  "items": [
+    {
+      "id": 1,
+      "name": "#코카콜라제로P500ml",
+      "unit_price": 2400,
+      "count": 1,
+      "price": 2400
+    },
+    {
+      "id": 2,
+      "name": "햇반을",
+      "unit_price": 6466,
+      "count": 3,
+      "price": 19400
+    }
+  ],
+  "total_price": 19400,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-217f104eb446.jpg"
+}

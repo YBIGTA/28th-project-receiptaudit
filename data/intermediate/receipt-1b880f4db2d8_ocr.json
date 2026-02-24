@@ -1,0 +1,24 @@
+{
+  "receipt_id": "receipt-1b880f4db2d8",
+  "store_name": "신촌연세로점",
+  "store_address": "서울 서대문구 연세로 23",
+  "date": "2025-11-14 10:21",
+  "items": [
+    {
+      "id": 1,
+      "name": "아메리카노(ICE)",
+      "unit_price": 2000,
+      "count": 4,
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "name": "연돈",
+      "unit_price": 15600,
+      "count": 1,
+      "price": 15600
+    }
+  ],
+  "total_price": 23600,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-1b880f4db2d8.jpg"
+}

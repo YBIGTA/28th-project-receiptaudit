@@ -1,0 +1,24 @@
+{
+  "receipt_id": "receipt-c251373f1814",
+  "store_name": "주유기 번호 : 04번",
+  "store_address": "경기도 남양주시 별내면 율석리 725-1",
+  "date": "",
+  "items": [
+    {
+      "id": 1,
+      "name": "경유(04) 1,678 8X 17.878",
+      "unit_price": 30000,
+      "count": 1,
+      "price": 30000
+    },
+    {
+      "id": 2,
+      "name": "용기카드",
+      "unit_price": 30000,
+      "count": 1,
+      "price": 30000
+    }
+  ],
+  "total_price": 60000,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-c251373f1814.jpg"
+}

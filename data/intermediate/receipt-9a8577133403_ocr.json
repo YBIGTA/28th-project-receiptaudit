@@ -1,0 +1,38 @@
+{
+  "receipt_id": "receipt-9a8577133403",
+  "store_name": "신촌연세로점",
+  "store_address": "서대분구 연세로 23",
+  "date": "2025-11-14 10:21",
+  "items": [
+    {
+      "id": 1,
+      "name": "아메리카노(ICED)",
+      "unit_price": 2000,
+      "count": 4,
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "name": "쿨라임에이드",
+      "unit_price": 3800,
+      "count": 2,
+      "price": 7600
+    },
+    {
+      "id": 3,
+      "name": "청 액",
+      "unit_price": 15600,
+      "count": 1,
+      "price": 15600
+    },
+    {
+      "id": 4,
+      "name": "받 구이스 금금름",
+      "unit_price": 15600,
+      "count": 1,
+      "price": 15600
+    }
+  ],
+  "total_price": 46800,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-9a8577133403.jpg"
+}

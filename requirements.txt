@@ -1,12 +1,34 @@
-# Project dependencies
-paddleocr
-paddlepaddle
-langchain
-openai
+# Core Web Application
+streamlit
+pandas
+requests
+python-dotenv
+Pillow
+reportlab
+datasets
+huggingface_hub
 fastapi
 uvicorn
-pydantic
+psycopg2-binary
+boto3
+
+# LangChain and RAG Engine
+langchain==0.3.27
+langchain-core
+langchain-community
+langchain-upstage
+langchain-text-splitters
+langchain-chroma
+pypdf
+docx2txt
+chromadb
 python-multipart
-pdfkit
-streamlit
-uv
+
+# OCR Engine
+paddlepaddle==3.2.1
+paddleocr
+shapely
+pyclipper
+imgaug
+lmdb
+opencv-python

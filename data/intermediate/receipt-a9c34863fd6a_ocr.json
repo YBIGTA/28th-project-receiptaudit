@@ -1,0 +1,17 @@
+{
+  "receipt_id": "receipt-a9c34863fd6a",
+  "store_name": "재미있는 플랫폼 GS25",
+  "store_address": "서울 서대문구 연세로7길 34-5",
+  "date": "2025-11-09 13:54",
+  "items": [
+    {
+      "id": 1,
+      "name": "동원)양반유자",
+      "unit_price": 13208,
+      "count": 1,
+      "price": 13208
+    }
+  ],
+  "total_price": 13200,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-a9c34863fd6a.jpg"
+}

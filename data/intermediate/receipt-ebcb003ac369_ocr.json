@@ -1,0 +1,21 @@
+{
+  "receipt_id": "receipt-ebcb003ac369",
+  "store_name": "Marks & Spencer",
+  "date": "2023-10-10 14:30",
+  "items": [
+    {
+      "name": "Coffee, 200ml",
+      "unit_price": 1500,
+      "quantity": 2,
+      "total_price": 3000
+    },
+    {
+      "name": "Apple~, 1개",
+      "unit_price": 1200,
+      "quantity": 3,
+      "total_price": 3600
+    }
+  ],
+  "total_price": 6600,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-ebcb003ac369.jpg"
+}

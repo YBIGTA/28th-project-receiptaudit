@@ -1,0 +1,17 @@
+{
+  "receipt_id": "receipt-56f3c71e8b5a",
+  "store_name": "POD센터",
+  "store_address": "시울시 시내문구인서로 50",
+  "date": "2025-11-06 16:03",
+  "items": [
+    {
+      "id": 1,
+      "name": "01. 기획/홍보물",
+      "unit_price": 10000,
+      "count": 2,
+      "price": 20000
+    }
+  ],
+  "total_price": 20000,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-56f3c71e8b5a.jpg"
+}

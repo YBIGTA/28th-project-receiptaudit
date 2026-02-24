@@ -1,0 +1,24 @@
+{
+  "receipt_id": "receipt-e1fff0898b8b",
+  "store_name": "STARBUCKS",
+  "store_address": "서울 서대문 연세로 50",
+  "date": "2025-10-24 00:00",
+  "items": [
+    {
+      "id": 1,
+      "name": "아이스 아메리카노",
+      "unit_price": 4700,
+      "count": 4,
+      "price": 18800
+    },
+    {
+      "id": 2,
+      "name": "아이스 자몽허니블랙티",
+      "unit_price": 5900,
+      "count": 1,
+      "price": 5900
+    }
+  ],
+  "total_price": 24700,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-e1fff0898b8b.jpg"
+}

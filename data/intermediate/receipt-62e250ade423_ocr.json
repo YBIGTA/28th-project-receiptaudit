@@ -1,0 +1,17 @@
+{
+  "receipt_id": "receipt-62e250ade423",
+  "store_name": "CU연세대생협학생회관점",
+  "store_address": "서울특별시 서대문구 연세로 50(신 촌동)연세대학교 학생회관 1층",
+  "date": "2025-11-14 00:00",
+  "items": [
+    {
+      "id": 1,
+      "name": "감귤-3000",
+      "unit_price": 3000,
+      "count": 2,
+      "price": 6000
+    }
+  ],
+  "total_price": 6000,
+  "image_url": "https://transparent-audit.s3.ap-northeast-2.amazonaws.com/receipts/receipt-62e250ade423.jpg"
+}
